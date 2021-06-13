@@ -1,0 +1,6 @@
+Integer
+String
+Float
+Bool
+Array
+Double

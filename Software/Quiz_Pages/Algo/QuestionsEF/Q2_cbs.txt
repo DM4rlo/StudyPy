@@ -1,0 +1,6 @@
+system resources 
+sysrecs doesn't matter
+run locally
+measures work done
+isn't run locally
+measures time performance 

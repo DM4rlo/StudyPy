@@ -1,0 +1,6 @@
+Fragment
+Bits
+Frame
+Segment
+Packet
+Nibble

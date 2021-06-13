@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1171</width>
+    <height>746</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(18, 18, 18);</string>
+  </property>
+  <widget class="QLabel" name="lbl_logo">
+   <property name="geometry">
+    <rect>
+     <x>970</x>
+     <y>20</y>
+     <width>171</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>441</width>
+     <height>431</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/newPrefix/Picture3.png);
+</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btndt">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>120</y>
+     <width>341</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>18</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 51, 102);
+border-top-left-radius :20px;
+border-top-right-radius : 20px; 
+border-bottom-left-radius : 20px; 
+border-bottom-right-radius : 20px;
+color:#FF6600;</string>
+   </property>
+   <property name="text">
+    <string>Data Types</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbl_manu">
+   <property name="geometry">
+    <rect>
+     <x>950</x>
+     <y>710</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>16</pointsize>
+     <italic>true</italic>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 102, 0);
+</string>
+   </property>
+   <property name="text">
+    <string>By Ion Point Innovations</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="txtTitle">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>30</y>
+     <width>541</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>18</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 102, 0);
+color: rgb(0, 51, 102);
+</string>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:18pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Choose a topic from Data Structures:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnmm">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>280</y>
+     <width>341</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>18</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 51, 102);
+border-top-left-radius :20px;
+border-top-right-radius : 20px; 
+border-bottom-left-radius : 20px; 
+border-bottom-right-radius : 20px;
+color:#FF6600;</string>
+   </property>
+   <property name="text">
+    <string>Memory Models</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btntg">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>440</y>
+     <width>341</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>18</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 51, 102);
+border-top-left-radius :20px;
+border-top-right-radius : 20px; 
+border-bottom-left-radius : 20px; 
+border-bottom-right-radius : 20px;
+color:#FF6600;</string>
+   </property>
+   <property name="text">
+    <string>Tree and Graphs</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnrec">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>590</y>
+     <width>341</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>18</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 51, 102);
+border-top-left-radius :20px;
+border-top-right-radius : 20px; 
+border-bottom-left-radius : 20px; 
+border-bottom-right-radius : 20px;
+color:#FF6600;</string>
+   </property>
+   <property name="text">
+    <string>Recursion</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnRtn">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>660</y>
+     <width>181</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>18</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 51, 102);
+border-top-left-radius :20px;
+border-top-right-radius : 20px; 
+border-bottom-left-radius : 20px; 
+border-bottom-right-radius : 20px;
+color:#FF6600;</string>
+   </property>
+   <property name="text">
+    <string>Go Back</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="D:/Pictures/Camera Roll/zcz.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,7 @@
+Merge Sort
+Nested Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Bubble Sort
+

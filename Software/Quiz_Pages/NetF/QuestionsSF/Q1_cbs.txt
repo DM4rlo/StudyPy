@@ -1,0 +1,6 @@
+Virus
+Trojan 
+Antivirus
+Worm
+Ransomeware
+Cookie (cache)

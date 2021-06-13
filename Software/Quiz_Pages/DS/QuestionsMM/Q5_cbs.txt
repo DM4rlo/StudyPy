@@ -1,0 +1,6 @@
+Feynmann Diagrams
+Venn Diagram
+Newtian Diagram
+Vector Diagrams
+Box Pointer Diagram
+Tree Diagram

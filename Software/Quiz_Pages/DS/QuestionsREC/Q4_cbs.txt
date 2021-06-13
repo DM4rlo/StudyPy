@@ -1,0 +1,7 @@
+DFS
+Breadth-First
+BFS
+Linear Search
+Depth-First
+Binary Search
+

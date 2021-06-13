@@ -1,0 +1,6 @@
+dynamic analysis
+fluid analysis
+semi-dynamic analysis
+static analysis
+Deterministic analysis
+Non-Deterministic analysis

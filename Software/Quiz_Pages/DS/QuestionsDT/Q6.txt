@@ -1,0 +1,1 @@
+Which ADTs are used to represent data in a linear format?

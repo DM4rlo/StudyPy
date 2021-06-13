@@ -1,0 +1,8 @@
+O(n^2)
+O(Log n)
+O(n)
+O(n log n)
+O(2^n)
+O(n)
+
+

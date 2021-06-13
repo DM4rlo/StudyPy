@@ -1,0 +1,6 @@
+Tree Summation
+Searching Linear List
+Searching Ordered List
+Factorials
+Graph Analysis
+Adjacency Matrix Comparisons

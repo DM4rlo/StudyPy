@@ -1,0 +1,7 @@
+(config)# setpassword <pwd>
+(config)# intpassword <pwd>
+(config)# password <pwd>
+(config)# initialise
+(config)# login
+(config)# pwd login
+

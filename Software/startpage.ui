@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1171</width>
+    <height>746</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1171</width>
+    <height>746</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1171</width>
+    <height>746</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(18, 18, 18);</string>
+  </property>
+  <widget class="QLabel" name="lbl_logo">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>40</y>
+     <width>431</width>
+     <height>431</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>441</width>
+     <height>431</height>
+    </size>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/newPrefix/C:/Users/Foxsi/OneDrive/Desktop/StdyP/Software/imgs/Picture3.png);</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnStart">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>550</y>
+     <width>341</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>18</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 51, 102);
+border-top-left-radius :20px;
+border-top-right-radius : 20px; 
+border-bottom-left-radius : 20px; 
+border-bottom-right-radius : 20px;
+color:#FF6600;</string>
+   </property>
+   <property name="text">
+    <string>Start App</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbl_manu">
+   <property name="geometry">
+    <rect>
+     <x>950</x>
+     <y>710</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Calibri</family>
+     <pointsize>16</pointsize>
+     <italic>true</italic>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 102, 0);
+</string>
+   </property>
+   <property name="text">
+    <string>By Ion Point Innovations</string>
+   </property>
+  </widget>
+  <zorder>lbl_manu</zorder>
+  <zorder>btnStart</zorder>
+  <zorder>lbl_logo</zorder>
+ </widget>
+ <resources>
+  <include location="D:/Pictures/Camera Roll/zcz.qrc"/>
+ </resources>
+ <connections/>
+</ui>

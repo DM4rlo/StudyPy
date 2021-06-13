@@ -1,0 +1,6 @@
+Inlines
+Outline
+Venn Diagram
+Box Pointer Diagram
+Icicle Diagram
+Adjacency Diagram

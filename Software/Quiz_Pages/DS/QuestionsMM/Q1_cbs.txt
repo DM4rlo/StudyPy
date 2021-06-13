@@ -1,0 +1,6 @@
+Temporary Copy
+Deep Copy
+Instant Copy
+Light Copy
+Shallow Copy
+Late Copy

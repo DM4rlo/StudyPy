@@ -1,0 +1,1 @@
+what plans are used when searching for the possible negative values in a sequence?

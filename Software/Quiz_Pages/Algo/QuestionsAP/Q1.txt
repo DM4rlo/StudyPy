@@ -1,0 +1,1 @@
+Which of the following algorithm plans are suitable when searching for the largest even number in a list?

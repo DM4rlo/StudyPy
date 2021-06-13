@@ -1,0 +1,1 @@
+Which linear Data Structure is better for data manipulation?

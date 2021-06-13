@@ -1,0 +1,1 @@
+Which Data structures have to consist of a root node?

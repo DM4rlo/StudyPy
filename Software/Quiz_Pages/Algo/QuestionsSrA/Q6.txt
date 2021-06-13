@@ -1,0 +1,1 @@
+which algorithms can be used on a linear structure?

@@ -1,0 +1,6 @@
+Skip a process
+Terminate Loop
+Comparison
+Perform an Assertion
+Call itself
+Call a Queue

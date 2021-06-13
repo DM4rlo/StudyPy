@@ -1,0 +1,6 @@
+Interpolation Search
+Depth-First Search
+Interpolation Search
+Binary Search
+Breadth-First Search
+Linear Search

@@ -1,0 +1,1 @@
+which algorithms could be considered Divide & Conquer solutions?

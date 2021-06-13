@@ -1,0 +1,6 @@
+Formatting 
+Sequencing
+Adressing
+Flow Control
+Polymorphism
+App Interface

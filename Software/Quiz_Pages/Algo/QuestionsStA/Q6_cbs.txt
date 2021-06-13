@@ -1,0 +1,6 @@
+Selection Sort
+Insertion Sort
+Quick Sort
+Merge Sort
+Timsort
+Heap Sort

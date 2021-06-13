@@ -1,0 +1,7 @@
+Interpolation Search
+Merge Sort
+Bubble Sort
+Jump Search
+Linear Search
+Quick Sort
+

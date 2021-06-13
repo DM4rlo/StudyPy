@@ -1,0 +1,1 @@
+Which structures allow their node to either have more than 1 or no parent nodes?

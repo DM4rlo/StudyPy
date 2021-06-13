@@ -1,0 +1,6 @@
+Edge-List
+Lists-of-Lists
+Adjacency-Matrix
+Adjacency-List
+Call Stack
+Parent-Pointers

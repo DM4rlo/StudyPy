@@ -1,0 +1,6 @@
+Jump Search
+Depth-First Search
+Breatht-First Search
+Interpolation Search
+Non-Binary Search
+Cubic Search

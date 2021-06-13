@@ -1,0 +1,1 @@
+What searching algorithms are suited to unorganised datasets?

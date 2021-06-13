@@ -1,0 +1,6 @@
+total
+filter
+Best so far
+Search Linearly
+count
+create newlist
